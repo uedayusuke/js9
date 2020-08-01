@@ -2,5 +2,5 @@
 
 DMM WEBCAMPカリキュラム
 
-JavaScriptを学ぼう/
+JavaScriptを学ぼう/9章【トップに戻るを作ってみよう】
 
